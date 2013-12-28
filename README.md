@@ -1,4 +1,4 @@
-## JC2 SetWeather
+## JC2:MP SetWeather
 
 As part of my little project to give the server console some more functionality, I've now written "SetWeather". This script allows you to set the weather server-wide to either "Sunny", "Raining", or "Storm".
 
