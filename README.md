@@ -17,7 +17,7 @@ Sets the weather to "Storming"
 ### License & Copyright
 
 
-Copyright (c) 2013, Jonathan Price under [the MIT License](LICENSE)
+Copyright (c) 2013, Jonathan Price under [the BSD 2 License](LICENSE)
 
 ### Contact (For issues, suggestions, etc)
 [JC2MP Forum Thread](http://www.jc-mp.com/forums/index.php/topic,4271.0.html)
