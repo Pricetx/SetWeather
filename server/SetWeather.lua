@@ -1,11 +1,11 @@
 -- Script to set the weather in the server console
 -- Original Author, Jonathan Price
 -- License can be found at https://github.com/pricetx/SethWeather/
--- Version: 0.1
+-- Version: 0.2
 class 'SetWeather'
 
 function SetWeather:__init()
-        -- Subscribe to console command "setweather"
+        -- Subscribe to console command "weather"
         Console:Subscribe("weather", self, self.ConsoleSet)
 end
 
