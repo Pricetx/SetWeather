@@ -1,6 +1,6 @@
 -- Script to set the weather in the server console
 -- Original Author, Jonathan Price
--- License can be found at https://github.com/pricetx/SethWeather/
+-- License can be found at https://github.com/pricetx/SetWeather/
 -- Version: 0.2
 class 'SetWeather'
 
